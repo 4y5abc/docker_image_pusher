@@ -11,3 +11,6 @@ emby/embyserver
 centos
 ubuntu
 alpine
+teamspeak
+avhost/docker-murmur
+homeassistant/home-assistant
